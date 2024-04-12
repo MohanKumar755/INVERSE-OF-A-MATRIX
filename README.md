@@ -13,6 +13,11 @@ To write a python program to find the inverse of a matrix
 
 ## Program:
 ```
+*/
+Program to implement  The inverse of Matrix 
+Developed by:Mohankumar.s
+RegisterNumber:23005002014
+/*
 import numpy as np
 A=np.array([[6,2,3],[3,1,1],[10,3,4]])
 I=np.linalg.inv(A)
@@ -20,7 +25,13 @@ print("The inverse of Matrix is:")
 print(I)
 ```
 ## Output:
-![image](https://github.com/MohanKumar755/INVERSE-OF-A-MATRIX/assets/146155007/7c689563-b59e-4011-935c-e41b7a985578)
+Program to implement  The inverse of Matrix 
+
+Developed by:Mohankumar.s
+
+RegisterNumber:23005002014
+![mohan3](https://github.com/MohanKumar755/INVERSE-OF-A-MATRIX/assets/146155007/39e4d8b9-8f07-4f86-b3d9-a549c0653d85)
+
 
 ## Result:
 Thus the inverse of given matrix is successfully solved using python program
