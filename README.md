@@ -25,14 +25,7 @@ print("The inverse of Matrix is:")
 print(I)
 ```
 ## Output:
-Program to implement  The inverse of Matrix 
-
-Developed by:Mohankumar.s
-
-RegisterNumber:23005002014
-
-![mohan3](https://github.com/MohanKumar755/INVERSE-OF-A-MATRIX/assets/146155007/39e4d8b9-8f07-4f86-b3d9-a549c0653d85)
-
+![Screenshot 2024-04-22 111551](https://github.com/MohanKumar755/INVERSE-OF-A-MATRIX/assets/146155007/c9e90737-3885-4219-acca-2b75fb5b0076)
 
 ## Result:
 Thus the inverse of given matrix is successfully solved using python program
